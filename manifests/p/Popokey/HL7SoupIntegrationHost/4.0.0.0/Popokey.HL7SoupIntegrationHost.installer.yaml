@@ -7,15 +7,16 @@ InstallerType: wix
 Scope: machine
 InstallerSwitches:
   InstallLocation: APPLICATIONFOLDER="<INSTALLPATH>"
-ProductCode: '{7A888C30-17B3-4ACA-891E-5A308B3C96C3}'
+ProductCode: '{33E0A96D-7A9A-4FF9-BF8F-6FA343E6AE9F}'
+ReleaseDate: 2026-07-27
 AppsAndFeaturesEntries:
 - UpgradeCode: '{59974DE9-ADD2-402C-8216-C4E3303A143F}'
 Installers:
 - Architecture: x86
   InstallerUrl: https://www.integrationsoup.com/downloads/hl7%20soup%20integration%20host.msi
-  InstallerSha256: 592B40ACCA9B95E573179B0F2B9B97C5377372897E5DEF823A557DE632D25C1E
+  InstallerSha256: 81CE9E629517C88FBE340C1223C28858BA5065798DC7B722E7EE49EAB1BE7132
 - Architecture: x64
   InstallerUrl: https://www.integrationsoup.com/downloads/hl7%20soup%20integration%20host.msi
-  InstallerSha256: 592B40ACCA9B95E573179B0F2B9B97C5377372897E5DEF823A557DE632D25C1E
+  InstallerSha256: 81CE9E629517C88FBE340C1223C28858BA5065798DC7B722E7EE49EAB1BE7132
 ManifestType: installer
 ManifestVersion: 1.12.0
