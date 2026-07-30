@@ -14,7 +14,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x86
 Installers:
 - Architecture: x86
-  InstallerUrl: https://cdn.matchmycolor.com/colibri/26.2.0/Colibri_26.2.0-beta.3031.exe
-  InstallerSha256: 5BC885EB0E6C803FBC63E1292C799DBBAD104458510A8B9F3DEB35CD398B0205
+  InstallerUrl: https://cdn.matchmycolor.com/colibri/26.2.0/Colibri_26.2.0-beta.3042.exe
+  InstallerSha256: DFE8621425AC7B9E6419CC8D1C3FA75769E41450131B22F65F0AE566845970DD
 ManifestType: installer
 ManifestVersion: 1.12.0
